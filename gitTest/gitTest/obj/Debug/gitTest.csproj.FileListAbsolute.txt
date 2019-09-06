@@ -1,0 +1,7 @@
+C:\Users\Jessica\source\repos\gitTest\gitTest\bin\Debug\gitTest.exe.config
+C:\Users\Jessica\source\repos\gitTest\gitTest\bin\Debug\gitTest.exe
+C:\Users\Jessica\source\repos\gitTest\gitTest\bin\Debug\gitTest.pdb
+C:\Users\Jessica\source\repos\gitTest\gitTest\obj\Debug\gitTest.csprojAssemblyReference.cache
+C:\Users\Jessica\source\repos\gitTest\gitTest\obj\Debug\gitTest.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\source\repos\gitTest\gitTest\obj\Debug\gitTest.exe
+C:\Users\Jessica\source\repos\gitTest\gitTest\obj\Debug\gitTest.pdb
