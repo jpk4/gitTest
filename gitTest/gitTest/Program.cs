@@ -12,6 +12,7 @@ namespace gitTest
         {
             Console.WriteLine("This is my initial commit!");
             Console.WriteLine("I've now added a second commit!");
+            Console.WriteLine("I added this in github");
             Console.ReadKey();
         }
     }
