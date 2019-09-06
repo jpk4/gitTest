@@ -11,6 +11,8 @@ namespace gitTest
         static void Main(string[] args)
         {
             Console.WriteLine("This is my initial commit!");
+            Console.WriteLine("This is my second commit!");
+            Console.WriteLine("Changing this after getting behind 3 commits");
             Console.ReadKey();
         }
     }
